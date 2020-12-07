@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e9fcc8-9808-4abb-84fa-7ac405d0547f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l2Q1BFKyo0LjIzNfw0SCLjd9Hf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/myprojects/juc/s09_ThreadPool" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s09_ThreadPool" />
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s07_RefTypeAndThreadLocal" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myprojects.juc.s05_interview" />
+      <recent name="com.myprojects.juc.s07_RefTypeAndThreadLocal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\projects\JUC" />
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s07_RefTypeAndThreadLocal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.T09_WorkStealingPool">
+    <configuration name="T05_CachedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.juc.s09_ThreadPool.T05_CachedThreadPool" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.juc.s09_ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T06_FixedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.juc.s09_ThreadPool.T06_FixedThreadPool" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.juc.s09_ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T07_SingleThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.juc.s09_ThreadPool.T07_SingleThreadExecutor" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.juc.s09_ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T08_ScheduledPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.juc.s09_ThreadPool.T08_ScheduledPool" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.juc.s09_ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T09_WorkStealingPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.juc.s09_ThreadPool.T09_WorkStealingPool" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.juc.s09_ThreadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T09_WorkStealingPool" />
+        <item itemvalue="Application.T08_ScheduledPool" />
+        <item itemvalue="Application.T07_SingleThreadExecutor" />
+        <item itemvalue="Application.T06_FixedThreadPool" />
+        <item itemvalue="Application.T05_CachedThreadPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e9fcc8-9808-4abb-84fa-7ac405d0547f" name="Default Changelist" comment="" />
+      <created>1606792488335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606792488335</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="268" key="#Inspections" timestamp="1607044207484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="268" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607044207484" />
+    <state x="903" y="333" key="#Notifications" timestamp="1607310006211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="333" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1607310006211" />
+    <state x="353" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607044375549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="353" y="245" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607044375549" />
+    <state x="629" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607045943117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607045943117" />
+    <state x="638" y="311" key="#com.intellij.ide.util.MemberChooser" timestamp="1607309692152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="311" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607309692152" />
+    <state x="1362" y="492" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606812057752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1362" y="492" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1606812057752" />
+    <state x="985" y="297" key="FileChooserDialogImpl" timestamp="1607309078546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607309078546" />
+    <state x="1453" y="614" key="Github.ShareDialog" timestamp="1607310072754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1453" y="614" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607310072754" />
+    <state width="1509" height="97" key="GridCell.Tab.0.bottom" timestamp="1607308450391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1509" height="97" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607308450391" />
+    <state width="1509" height="97" key="GridCell.Tab.0.center" timestamp="1607308450391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1509" height="97" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607308450391" />
+    <state width="1509" height="97" key="GridCell.Tab.0.left" timestamp="1607308450391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1509" height="97" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607308450391" />
+    <state width="1509" height="97" key="GridCell.Tab.0.right" timestamp="1607308450391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1509" height="97" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607308450391" />
+    <state width="1317" height="235" key="GridCell.Tab.1.bottom" timestamp="1607070069855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="235" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607070069855" />
+    <state width="1317" height="235" key="GridCell.Tab.1.center" timestamp="1607070069855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="235" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607070069855" />
+    <state width="1317" height="235" key="GridCell.Tab.1.left" timestamp="1607070069855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="235" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607070069855" />
+    <state width="1317" height="235" key="GridCell.Tab.1.right" timestamp="1607070069855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="235" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607070069855" />
+    <state x="723" y="213" key="PlantUMLSettings" timestamp="1606898697741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="213" key="PlantUMLSettings/0.0.1920.1040@0.0.1920.1040" timestamp="1606898697741" />
+    <state x="843" y="278" key="SettingsEditor" timestamp="1607309894343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="843" y="278" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607309894343" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606874888904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606874888904" />
+    <state x="608" y="316" key="VCS.EditChangelistDialog" timestamp="1607308759481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="316" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607308759481" />
+    <state x="743" y="242" key="Vcs.Push.Dialog.v2" timestamp="1607310323456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607310323456" />
+    <state x="333" y="250" width="1178" height="613" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607063000861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="250" width="1178" height="613" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607063000861" />
+    <state x="1392" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606979722465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1392" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606979722465" />
+    <state x="587" y="246" key="run.anything.popup" timestamp="1606978665497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="246" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606978665497" />
+    <state x="702" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1607303206262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607303206262" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/myprojects/juc/s06_resource/T01_AQS.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/myprojects/juc/s08_Container/Map/T01_Hashtable.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
