@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../JMH/JMH.iml" filepath="$PROJECT_DIR$/../JMH/JMH.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUC.iml" filepath="$PROJECT_DIR$/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JVM/JVM.iml" filepath="$PROJECT_DIR$/../JVM/JVM.iml" />
     </modules>
   </component>
 </project>
